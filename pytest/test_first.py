@@ -15,3 +15,6 @@ def test_multiply():
     assert result2 == 9
     result3 = multiply(4,4)
     assert result3 == 16
+
+    result4 = multiply(23, 45)
+    assert result4 == 23*45
