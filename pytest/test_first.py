@@ -1,6 +1,6 @@
 def multiply(a, b):
-    if a == 3 and b == 3:
-        return 10
+    # if a == 3 and b == 3:
+    #     return 10
     return a*b
 
 
