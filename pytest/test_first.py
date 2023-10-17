@@ -9,12 +9,13 @@ def test_multiply():
     assert result == 1
 
     result1 = multiply(2, 2)
-
     assert result1 == 4
+   
     result2 = multiply(3, 3)
     assert result2 == 9
-    result3 = multiply(4,4)
+   
+    result3 = multiply(4, 4)
     assert result3 == 16
 
     result4 = multiply(23, 45)
-    assert result4 == 23*45
+    assert result4 == 23 * 45
